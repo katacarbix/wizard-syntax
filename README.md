@@ -2,6 +2,6 @@
 
 A simple starry theme for atom made for spellcasters, wizards, and enchantresses.
 
-![Screenshot_Of_Wizard_Syntax](https://raw.githubusercontent.com/candy5hark/wizard-syntax/master/screenshot.png)
+![Screenshot_Of_Wizard_Syntax](screenshot.png)
 
-This is my first theme made on a Saturday afternoon.
+Made by [@slitherpunk](https://github.com/slitherpunk), slightly modified by me.
